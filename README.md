@@ -1,1 +1,3 @@
 # WeatherDataAnalysis
+
+This was my final project for a class. The focus of the project was to see if there can be a difference in real estate prices with different weather patterns in Melbourne, Australia. To accomplish this, datasets were derived from Kaggle.com and cleaned and combined. Analysis was created and used XGBoost to model a ML algorithm to see the importance of features. This showed which indicators had importance for predicting future real estate prices based on the data. Overall, it was found to have very minimal success, where there was a very small bump in accuracy of the ML model.
